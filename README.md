@@ -41,7 +41,9 @@ Frontend:
 
 ⚡ JavaScript
 
+
 📌 Dikkat Çeken Özellikler
+
 
 🔧 Admin panel üzerinden içerikler üzerinde CRUD işlemleri
 
@@ -57,6 +59,7 @@ Frontend:
 
 
 📚 Bu Proje ile Kazanılan Yetkinlikler
+
 
 ✅ ASP.NET Core ile MVC mimarisinde proje geliştirme
 
