@@ -42,6 +42,7 @@ Frontend:
 ⚡ JavaScript
 
 
+
 📌 Dikkat Çeken Özellikler
 
 
@@ -56,6 +57,7 @@ Frontend:
 🛡️ SOLID ilkeleriyle yapılandırılmış temiz kod
 
 🧠 DRY prensibiyle tekrar eden kodların önüne geçildi
+
 
 
 📚 Bu Proje ile Kazanılan Yetkinlikler
