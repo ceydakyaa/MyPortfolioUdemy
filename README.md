@@ -23,54 +23,43 @@ Modüler yapı için ViewComponent ve Partial View gibi yapılar aktif olarak ku
 
 Backend:
 
-C#
-
-ASP.NET Core 6.0
-
-Entity Framework Core (Code-First)
-
- SQL Server
+C#,
+ASP.NET Core 6.0,
+Entity Framework Core (Code-First),
+SQL Server
 
 Frontend:
 
- HTML5
+HTML5,
+CSS3,
+Bootstrap 5,
+JavaScript
 
- CSS3
+Dikkat Çeken Özellikler
 
- Bootstrap 5
+Admin panel üzerinden içerikler üzerinde CRUD işlemleri
 
- JavaScript
+Bildirim ekranı ile To-Do List takibi
 
+ViewComponent yapısı ile bölünebilir ve sürdürülebilir mimari
 
+Responsive tasarım sayesinde mobilde akıcı kullanım
 
- Dikkat Çeken Özellikler
+SOLID ilkeleriyle yapılandırılmış temiz kod
 
-
- Admin panel üzerinden içerikler üzerinde CRUD işlemleri
-
- Bildirim ekranı ile To-Do List takibi
-
- ViewComponent yapısı ile bölünebilir ve sürdürülebilir mimari
-
- Responsive tasarım sayesinde mobilde akıcı kullanım
-
- SOLID ilkeleriyle yapılandırılmış temiz kod
-
- DRY prensibiyle tekrar eden kodların önüne geçildi
+DRY prensibiyle tekrar eden kodların önüne geçildi
 
 
+Bu Proje ile Kazanılan Yetkinlikler
 
- Bu Proje ile Kazanılan Yetkinlikler
+ASP.NET Core ile MVC mimarisinde proje geliştirme
 
+Entity Framework üzerinden Code-First ve Migration kullanımı
 
- ASP.NET Core ile MVC mimarisinde proje geliştirme
+Razor, PartialView ve ViewComponent ile modüler yapı kurma
 
- Entity Framework üzerinden Code-First ve Migration kullanımı
+Bootstrap ile responsive tasarım uygulama
 
- Razor, PartialView ve ViewComponent ile modüler yapı kurma
+SQL Server ile veritabanı yönetimi
 
- Bootstrap ile responsive tasarım uygulama
-
- SQL Server ile veritabanı yönetimi
-
- Gerçek senaryo üzerinden uçtan uca bir proje geliştirme pratiği
+Gerçek senaryo üzerinden uçtan uca bir proje geliştirme pratiği
