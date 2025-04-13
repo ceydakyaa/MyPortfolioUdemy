@@ -72,4 +72,4 @@ ViewComponent ve PartialView yapıları kullanılarak modüler, yeniden kullanı
 
 ![Image](https://github.com/user-attachments/assets/ef298021-aa4b-43a5-bbbb-c8d5cf184bd1)
 
-
+![Image](https://github.com/user-attachments/assets/95d503f4-f054-4c28-b43d-fd085f49bec5)
