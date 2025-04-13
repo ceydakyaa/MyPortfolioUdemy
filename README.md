@@ -35,6 +35,7 @@ CSS3,
 Bootstrap 5,
 JavaScript
 
+
 Dikkat Çeken Özellikler
 
 Admin panel üzerinden içerikler üzerinde CRUD işlemleri
@@ -48,6 +49,7 @@ Responsive tasarım sayesinde mobilde akıcı kullanım
 SOLID ilkeleriyle yapılandırılmış temiz kod
 
 DRY prensibiyle tekrar eden kodların önüne geçildi
+
 
 
 Bu Proje ile Kazanılan Yetkinlikler
