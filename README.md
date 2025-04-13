@@ -1,4 +1,4 @@
-# 💎 ASP.NET Core 6.0 ile Geliştirilmiş Yönetim Panelli Portföy Uygulaması
+# 🚀 ASP.NET Core 6.0 ile Geliştirilmiş Yönetim Panelli Portföy Uygulaması
 
 Bu proje, 🎓 [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) tarafından Udemy’de sunulan  
 **"Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin – Part 1 & Part 2"** eğitim serisi kapsamında geliştirilmiştir.  
@@ -6,7 +6,7 @@ Bu süreçteki rehberliği için kendisine teşekkür ederim. 🙏
 
 ---
 
-## 🚀 Projenin Amacı ve Kapsamı
+##  Projenin Amacı ve Kapsamı
 
 Bu uygulama, yazılım becerilerimi, geçmiş projelerimi ve deneyimlerimi modern ve kullanıcı dostu bir yapıda sergilemek üzere tasarlandı.  
 En dikkat çekici özelliği; içeriklerin dinamik olarak yönetilebildiği, güçlü bir admin paneline sahip olmasıdır.
@@ -15,7 +15,7 @@ Mobil uyumlu tasarımı ile her cihazda sorunsuz bir deneyim sunarken, sade ve e
 
 ---
 
-## 🧱 Mimari Yapı ve Katmanlar
+##  Mimari Yapı ve Katmanlar
 
 - **Entity Layer:** Code-First yaklaşımıyla veritabanı modelleri tanımlandı.  
 - **Data Access Layer:** Entity Framework Core ile esnek ve güvenilir veri işlemleri sağlandı.  
