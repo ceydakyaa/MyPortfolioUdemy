@@ -2,7 +2,7 @@
 
 Bu proje, 🎓 [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) tarafından Udemy’de sunulan  
 **"Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin – Part 1 & Part 2"** eğitim serisi kapsamında geliştirilmiştir.  
-Bu süreçteki rehberliği için kendisine teşekkür ederim. 🙏
+Bu süreçteki rehberliği için kendisine teşekkür ederim. 
 
 ---
 
@@ -11,7 +11,7 @@ Bu süreçteki rehberliği için kendisine teşekkür ederim. 🙏
 Bu uygulama, yazılım becerilerimi, geçmiş projelerimi ve deneyimlerimi modern ve kullanıcı dostu bir yapıda sergilemek üzere tasarlandı.  
 En dikkat çekici özelliği; içeriklerin dinamik olarak yönetilebildiği, güçlü bir admin paneline sahip olmasıdır.
 
-Mobil uyumlu tasarımı ile her cihazda sorunsuz bir deneyim sunarken, sade ve estetik arayüzüyle öne çıkıyor. 👨‍💻
+Mobil uyumlu tasarımı ile her cihazda sorunsuz bir deneyim sunarken, sade ve estetik arayüzüyle öne çıkıyor. 
 
 ---
 
